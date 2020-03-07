@@ -1,4 +1,4 @@
-# Determining Customer Cart Checkout based on E-Commerce Behaviour
+# Determing E-commerce Behaviour from Shopping Cart Activity
 **Project Report**
 
 ## Abstract
