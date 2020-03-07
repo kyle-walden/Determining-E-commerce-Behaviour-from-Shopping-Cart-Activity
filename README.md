@@ -31,6 +31,4 @@ Classification models used to fit the data and produce predictions were: [Logist
 
 ## Results
 The best performing model was a K-Nearest Neighbour (KNN), reporting a 70.64% accuracy rate. The below plot reports the accuracy of each model:
-
-
-
+[Model Accuracy](Model_Accuracy_Results.png)
