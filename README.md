@@ -2,7 +2,7 @@
 **Project Report**
 
 ## Abstract
-This project utalizes machine learning to develope a classification model to classify whether a e-commerce store visitor will proceed to purchase a product placed within their shopping cart or select to remove the product from their shopping cart - ultimetly classifying the user as a 'buyer' or 'non-buyer' for a paticular product prior to them taking action in the shopping cart. The concluding model producing the best results was a K-Nearest Neighbour (KNN) model, reporting a 70.64% accuracy rate.
+This project utalizes machine learning to develope a classification model to classify whether a e-commerce store visitor will proceed to purchase a product placed within their shopping cart or select to remove the product from their shopping cart - ultimetly classifying the user as a 'buyer' or 'non-buyer' for a paticular product prior to them taking action in the shopping cart. The concluding model producing the best results was a K-Nearest Neighbour (KNN) model, reporting a ***70.64% accuracy rate***.
 
 ## Introduction
 In today's internet age, typical e-commerce online stores are able to track user activity and compile relational databases. Popular tools are used to do so such as Google Analytics - providing insights into site visitor behaviours at a detailed view point. In such, a site can easily setup a collection to track the activity that happens within a paticular users' shopping cart per browsing session.
