@@ -7,7 +7,7 @@ This project utalizes machine learning to develope a classification model to cla
 ## Introduction
 In today's internet age, typical e-commerce online stores are able to track user activity and compile relational databases. Popular tools are used to do so such as Google Analytics - providing insights into site visitor behaviours at a detailed view point. In such, a site can easily setup a collection to track the activity that happens within a paticular users' shopping cart per browsing session.
 
-**This document outlines topics of the model's methodology, modelling tools and techniques, and provides a summary of results and final discussion points. For a detailed code repository, please see attached Jupyter Notebook.**
+**This document outlines topics of the model's methodology, modelling tools and techniques, and provides a summary of results and final discussion points. For a detailed code repository, please see attached [Jupyter Notebook](https://github.com/kyle-walden/Determing-E-commerce-Behaviour-from-Shopping-Cart-Activity/blob/master/Ecomm-behaviour-notebook.ipynb).**
 
 ## Methodology
 ### Dataset and Pre-processing
